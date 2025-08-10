@@ -1,1 +1,1 @@
-# IMT2200-ISIDORA-MORA
+Isidora Carolina Mora Albornoz

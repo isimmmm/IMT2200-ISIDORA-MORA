@@ -1,6 +1,7 @@
-# imt2200_actividad1
+# IMT2200 Actividad 1
 
 Este repositorio corresponde a la actividad 1 de introducción a la ciencia de datos.
+*Nombre alumna: Isidora Carolina Mora Albornoz.*
 
 # Estructura repositorio
 
@@ -12,6 +13,8 @@ Al ingresar en la carpeta, nos encontramos con distintos archivos. Estos son los
 
 _NotebookJupyterEditado:_ En este archivo se encontrarán con la correcta importación de algunas librerías necesarias para la actividad, y luego el análisis guiado de datos del censo chileno de 2017 para la región metropolitana, junto a un mapa generado mostrando la población total por manzana utilizando los datos recolectados dentro del archivo ".ipynb".
 
-# Nombre alumna: 
+# Páginas usadas de referencia:
 
-Isidora Carolina Mora Albornoz.
+- PPT de clases del curso.
+- https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/
+- https://matplotlib.org/stable/users/explain/colors/colormaps.html
